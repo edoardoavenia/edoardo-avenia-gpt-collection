@@ -79,11 +79,11 @@
             <img src="icons/architetto_gpt_italiani.png" width="200" height="200" alt="Architetto GPT">
           </a>
           <br>
-          <h3>🛠️ Architetto GPT italiani</h3>
+          <h3>🛠️ GPT Architect for Italians</h3>
           <img src="https://img.shields.io/badge/v5.1-Latest-green?style=flat-square&logo=v" alt="Version">
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
-          <p style="height: 60px;">Il tuo alleato per progettare GPTs personalizzati in italiano.</p>
+          <p style="height: 60px;">Your ally in designing custom GPTs in Italian.</p>
           <a href="https://chatgpt.com/g/g-1o6DaFTfg-architetto-gpt-italiani">
             <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
           </a>
@@ -111,11 +111,11 @@
             <img src="icons/politecnico_quizmaster.png" width="200" height="200" alt="Politecnico QuizMaster">
           </a>
           <br>
-          <h3>📚 Politecnico QuizMaster</h3>
+          <h3>📚 Polytechnic QuizMaster</h3>
           <img src="https://img.shields.io/badge/v2.0-Latest-green?style=flat-square&logo=v" alt="Version">
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
-          <p style="height: 60px;">Quiz interattivi di ingegneria per studenti del Politecnico. Integrato con PoliQuiz API.</p>
+          <p style="height: 60px;">Interactive engineering quizzes for Polytechnic students. Integrated with PoliQuiz API.</p>
           <a href="https://chatgpt.com/g/g-jP79Nb9A3-politecnico-quizmaster">
             <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
           </a>
@@ -129,11 +129,11 @@
             <img src="icons/tutor_fisica_1.png" width="200" height="200" alt="Tutor di Fisica">
           </a>
           <br>
-          <h3>⚛️ Tutor di Fisica 1</h3>
+          <h3>⚛️ Physics 1 Tutor</h3>
           <img src="https://img.shields.io/badge/v3.1-Latest-green?style=flat-square&logo=v" alt="Version">
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
-          <p style="height: 60px;">Tutor specializzato in Fisica 1 con metodo Feynman e approccio intuitivo.</p>
+          <p style="height: 60px;">Specialized tutor in Physics 1 using the Feynman method and intuitive approach.</p>
           <a href="https://chatgpt.com/g/g-WpdHXBDo4-tutor-di-fisica-1">
             <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
           </a>
@@ -145,11 +145,11 @@
             <img src="icons/assistente_normativa_sicurezza.png" width="200" height="200" alt="Assistente Normativa">
           </a>
           <br>
-          <h3>📋 Assistente Normativa</h3>
+          <h3>📋 Safety Regulations Assistant</h3>
           <img src="https://img.shields.io/badge/v1.0-Latest-green?style=flat-square&logo=v" alt="Version">
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
-          <p style="height: 60px;">Consulente per le normative italiane sulla sicurezza sul lavoro.</p>
+          <p style="height: 60px;">Consultant for Italian workplace safety regulations.</p>
           <a href="https://chatgpt.com/g/g-sUMyOY8rT-assistente-normativa-sicurezza">
             <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
           </a>
@@ -161,11 +161,11 @@
             <img src="icons/gtt_helper.png" width="200" height="200" alt="GTT Helper">
           </a>
           <br>
-          <h3>🚌 GTT Orari Helper</h3>
+          <h3>🚌 Turin GTT Schedule Helper</h3>
           <img src="https://img.shields.io/badge/v0.1-Beta-orange?style=flat-square&logo=v" alt="Version">
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
-          <p style="height: 60px;">Assistente per gli orari GTT di Torino con integrazione API in tempo reale.</p>
+          <p style="height: 60px;">Assistant for Turin GTT schedules with real-time API integration.</p>
           <a href="https://chatgpt.com/g/g-4YsHW0wBz-torino-gtt-orari-helper">
             <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
           </a>
