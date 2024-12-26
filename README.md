@@ -195,8 +195,8 @@ Edoardo Avenia is a LLM Solution Architect and AI Developer specializing in crea
   </a>
 </div>
 
-📄 License
+### 📄 License
 <div align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="License">
 </div>
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.<br><br>
