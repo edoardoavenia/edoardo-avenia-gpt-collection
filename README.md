@@ -34,9 +34,14 @@
           <img src="https://img.shields.io/badge/EN-language-blue?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Expert in deep web analysis and research, ensuring complete understanding of complex topics.</p>
-          <a href="https://chatgpt.com/g/g-IF18aGRLF-web-research-analyst">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-IF18aGRLF-web-research-analyst">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/web-research-analyst">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
       <td align="center" width="33.33%">
@@ -50,9 +55,14 @@
           <img src="https://img.shields.io/badge/EN-language-blue?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Master STEM subjects with step-by-step solutions and comprehensive explanations.</p>
-          <a href="https://chatgpt.com/g/g-doiE0rbTi-stem-solver-homework-exams">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-doiE0rbTi-stem-solver-homework-exams">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/stem-solver">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
       <td align="center" width="33.33%">
@@ -66,9 +76,14 @@
           <img src="https://img.shields.io/badge/EN-language-blue?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Specialized in logical reasoning and critical analysis using step-by-step thinking.</p>
-          <a href="https://chatgpt.com/g/g-s9B4PVDEP-chain-of-thought-master">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-s9B4PVDEP-chain-of-thought-master">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/chain-of-thought-master">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
     </tr>
@@ -84,9 +99,14 @@
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Your ally in designing custom GPTs in Italian.</p>
-          <a href="https://chatgpt.com/g/g-1o6DaFTfg-architetto-gpt-italiani">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-1o6DaFTfg-architetto-gpt-italiani">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/architetto-gpt-italiani">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
       <td align="center" width="33.33%">
@@ -100,9 +120,14 @@
           <img src="https://img.shields.io/badge/EN-language-blue?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Break down complex problems with methodical analysis and practical solutions.</p>
-          <a href="https://chatgpt.com/g/g-IxaoBUuJl-deepsolver">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-IxaoBUuJl-deepsolver">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/deep-solver">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
       <td align="center" width="33.33%">
@@ -116,9 +141,14 @@
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Interactive engineering quizzes for Polytechnic students. Integrated with PoliQuiz API.</p>
-          <a href="https://chatgpt.com/g/g-jP79Nb9A3-politecnico-quizmaster">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-jP79Nb9A3-politecnico-quizmaster">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/politecnico-quizmaster">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
     </tr>
@@ -134,9 +164,14 @@
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Specialized tutor in Physics 1 using the Feynman method and intuitive approach.</p>
-          <a href="https://chatgpt.com/g/g-WpdHXBDo4-tutor-di-fisica-1">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-WpdHXBDo4-tutor-di-fisica-1">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/tutor-fisica-1">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
       <td align="center" width="33.33%">
@@ -150,9 +185,14 @@
           <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
           <br>
           <p style="height: 60px;">Consultant for Italian workplace safety regulations.</p>
-          <a href="https://chatgpt.com/g/g-sUMyOY8rT-assistente-normativa-sicurezza">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+          <div>
+            <a href="https://chatgpt.com/g/g-sUMyOY8rT-assistente-normativa-sicurezza">
+              <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+            </a>
+            <a href="https://github.com/edoardoavenia/assistente-normativa-sicurezza">
+              <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+            </a>
+          </div>
         </div>
       </td>
       <td align="center" width="33.33%">
@@ -160,20 +200,28 @@
           <a href="https://chatgpt.com/g/g-4YsHW0wBz-torino-gtt-orari-helper">
             <img src="icons/gtt_helper.png" width="200" height="200" alt="GTT Helper">
           </a>
-          <br>
-          <h3>🚌 Turin GTT Schedule Helper</h3>
-          <img src="https://img.shields.io/badge/v0.1-Beta-orange?style=flat-square&logo=v" alt="Version">
-          <img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
-          <br>
-          <p style="height: 60px;">Assistant for Turin GTT schedules with real-time API integration.</p>
-          <a href="https://chatgpt.com/g/g-4YsHW0wBz-torino-gtt-orari-helper">
-            <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
-          </a>
+<br> <h3>🚌 Turin GTT Schedule Helper</h3>
+<img src="https://img.shields.io/badge/v0.1-Beta-orange?style=flat-square&logo=v" alt="Version">
+<img src="https://img.shields.io/badge/IT-language-red?style=flat-square" alt="Language">
+<br>
+<p style="height: 60px;">Assistant for Turin GTT schedules with real-time API integration.</p>
+<div>
+  <a href="https://chatgpt.com/g/g-4YsHW0wBz-torino-gtt-orari-helper">
+    <img src="https://img.shields.io/badge/Try_It_Now-37a779?style=for-the-badge&logo=openai" alt="Try It Now">
+  </a>
+  <a href="https://github.com/edoardoavenia/torino-gtt-orari-helper">
+    <img src="https://img.shields.io/badge/View_on_GitHub-171515?style=for-the-badge&logo=github" alt="View on GitHub">
+  </a>
+</div>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
+## 📝 About These Projects (2023-2024)
+
+These projects, developed between late 2023 and early 2024, are initial experiments with the GPT Store to demonstrate my basic prompt engineering skills. Today, I develop more advanced solutions (LangChain, Python, direct access to LLM models) outside the GPT Store. I'm sharing them freely not only to showcase my initial AI journey but also to invite other developers to collaborate and enhance these projects, potentially recreating them outside the GPT Store with more powerful technologies.
 
 ## 👨‍💻 About the Author
 
