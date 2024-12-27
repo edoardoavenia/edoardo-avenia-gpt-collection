@@ -219,6 +219,10 @@
   </table>
 </div>
 
+## 📝 About These Projects (2023-2024)
+
+These projects, developed between late 2023 and early 2024, are initial experiments with the GPT Store to demonstrate my basic prompt engineering skills. Today, I develop more advanced solutions (LangChain, Python, direct access to LLM models) outside the GPT Store. I'm sharing them freely not only to showcase my initial AI journey but also to invite other developers to collaborate and enhance these projects, potentially recreating them outside the GPT Store with more powerful technologies.
+
 ## 👨‍💻 About the Author
 
 <div align="center">
